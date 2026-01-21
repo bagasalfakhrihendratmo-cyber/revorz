@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 9 GPS 45mm",
+    "brand": "Apple",
+    "price": 399.00,
+    "originalPrice": 429.00,
+    "discount": 7,
+    "rating": 4.8,
+    "reviewCount": 124,
+    "image": "/images/apple-watch-series-9.jpg",
+    "description": "The most advanced Apple Watch yet, featuring a stunning Always-On Retina display, powerful dual-core processor, and innovative health and safety features.",
+    "features": [
+      "Always-On Retina display",
+      "Dual-core processor",
+      "ECG app",
+      "Blood oxygen sensor",
+      "Sleep tracking",
+      "Water resistant 50 meters",
+      "Up to 18 hours battery life"
+    ],
+    "specifications": {
+      "Display": "45mm Always-On Retina LTPO OLED",
+      "Resolution": "410 x 410 pixels",
+      "Case Material": "Aluminum",
+      "Band": "Sport Band (Black)",
+      "Water Resistance": "50 meters",
+      "Battery Life": "Up to 18 hours",
+      "Connectivity": "Wi-Fi, Bluetooth 5.3, GPS"
+    },
+    "inStock": true,
+    "stockCount": 15,
+    "badge": "Best Seller"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 6 Classic 43mm",
+    "brand": "Samsung",
+    "price": 349.99,
+    "originalPrice": null,
+    "discount": null,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "image": "/images/samsung-galaxy-watch-6.jpg",
+    "description": "Experience the perfect blend of style and functionality with the Samsung Galaxy Watch 6 Classic.",
+    "features": [
+      "Rotating bezel",
+      "Advanced sleep coaching",
+      "Body composition analysis",
+      "Blood pressure monitoring",
+      "ECG monitoring",
+      "Water resistant 50 meters"
+    ],
+    "specifications": {
+      "Display": "43mm Super AMOLED",
+      "Resolution": "420 x 420 pixels",
+      "Case Material": "Titanium",
+      "Band": "Leather Band",
+      "Water Resistance": "50 meters",
+      "Battery Life": "Up to 40 hours",
+      "Connectivity": "Wi-Fi, Bluetooth 5.3, LTE (optional)"
+    },
+    "inStock": true,
+    "stockCount": 8,
+    "badge": "New"
+  },
+  {
+    "id": 3,
+    "name": "Garmin Forerunner 265S",
+    "brand": "Garmin",
+    "price": 449.99,
+    "originalPrice": null,
+    "discount": null,
+    "rating": 4.9,
+    "reviewCount": 67,
+    "image": "/images/garmin-forerunner-265s.jpg",
+    "description": "The Garmin Forerunner 265S is designed for serious runners with advanced training metrics and long battery life.",
+    "features": [
+      "Advanced running dynamics",
+      "Training status and load",
+      "HRV status",
+      "All-day health monitoring",
+      "Water resistant 5 ATM",
+      "Up to 14 days battery life"
+    ],
+    "specifications": {
+      "Display": "1.3-inch MIP transflective memory-in-pixel",
+      "Resolution": "260 x 260 pixels",
+      "Case Material": "Fiber-reinforced polymer",
+      "Band": "Silicone Band",
+      "Water Resistance": "5 ATM",
+      "Battery Life": "Up to 14 days",
+      "Connectivity": "Bluetooth, Wi-Fi, ANT+"
+    },
+    "inStock": true,
+    "stockCount": 5,
+    "badge": "Fitness Focus"
+  },
+  {
+    "id": 4,
+    "name": "Fitbit Sense 2",
+    "brand": "Fitbit",
+    "price": 299.95,
+    "originalPrice": 329.95,
+    "discount": 9,
+    "rating": 4.6,
+    "reviewCount": 142,
+    "image": "/images/fitbit-sense-2.jpg",
+    "description": "The Fitbit Sense 2 focuses on health and wellness with comprehensive sensors and stress management tools.",
+    "features": [
+      "ECG app",
+      "Blood oxygen sensor",
+      "Stress management",
+      "Skin temperature variation",
+      "Heart rate zones",
+      "Water resistant 50 meters"
+    ],
+    "specifications": {
+      "Display": "1.58-inch AMOLED",
+      "Resolution": "336 x 336 pixels",
+      "Case Material": "Aluminum",
+      "Band": "Comfort Band (Black)",
+      "Water Resistance": "50 meters",
+      "Battery Life": "Up to 6+ days",
+      "Connectivity": "Bluetooth, Wi-Fi"
+    },
+    "inStock": false,
+    "stockCount": 0,
+    "badge": "Health Focus"
+  }
+]
